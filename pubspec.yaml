@@ -1,6 +1,6 @@
 name: simple_dependency_injection
 description: Simple is an dependency Injection management
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/Ispx/simple.git
 
 environment:
