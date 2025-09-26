@@ -1,4 +1,5 @@
-import 'package:simple/simple.dart';
+ 
+import 'package:simple_dependency_injection/simple.dart';
 
 class AnyE {
   String message;
