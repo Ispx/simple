@@ -108,7 +108,7 @@ simple.reset(); // Limpa todas as instâncias
 ## Exemplo Completo
 
 ```dart
-import 'package:simple/simple.dart';
+import 'package:simple_dependency_injection/simple_dependency_injection.dart';
 
 // --- Classes de exemplo ---
 class ServiceA {
