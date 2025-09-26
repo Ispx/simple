@@ -22,7 +22,7 @@ A utilização da biblioteca é focada na classe `Simple`, que gerencia o regist
 Primeiro, obtenha a instância do `Simple`:
 
 ```dart
-import 'package:simple/simple.dart';
+import 'package:simple_dependency_injection/simple_dependency_injection.dart';
 
 final simple = Simple();
 ```
