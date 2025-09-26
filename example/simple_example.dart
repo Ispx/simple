@@ -1,5 +1,5 @@
  
-import 'package:simple_dependency_injection/simple.dart';
+import 'package:simple_dependency_injection/simple_dependency_injection.dart';
 
 class AnyE {
   String message;
